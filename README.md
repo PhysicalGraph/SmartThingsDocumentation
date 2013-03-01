@@ -1,0 +1,4 @@
+SmartThingsDocumentation
+========================
+
+Documentation for SmartThings
